@@ -47,7 +47,6 @@ p {
 	width: 51.5vh;
 	height: 51.5vh;
 	overflow: hidden;
-	direction: ltr;
 }
 
 .inventory-main-rightside {
@@ -55,7 +54,6 @@ p {
 	width: 51.5vh;
 	height: 51.5vh;
 	overflow: hidden;
-	direction: rtl;
 }
 
 .ItemBoxes {
